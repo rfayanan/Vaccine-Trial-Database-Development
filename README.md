@@ -1,5 +1,5 @@
 # Vaccine Trial Database Development
-For this project I collected business rules from documents, forms, policies and procedures and interviews. Using those business rules I created a Crow's Foot ERD of the organization's data needs on Microsoft Visio. Then I implemented the ERD in IBM Db2.  I made a tablespace for each table and indexes for all primary and foreign keys and placed some dummy data into each of the tables.
+For this project I collected business rules from documents, forms, policies and procedures and interviews. Using these business rules I created a Crow's Foot ERD of the organization's data needs on Microsoft Visio. Then I implemented the ERD in IBM Db2.  I made a tablespace for each table and indexes for all primary and foreign keys and placed some dummy data into each of the tables.
 ## Project Overview
 A doctor has come to you to develop a database to help track the results of a vaccine trial. You will
 receive information from the doctor that will include an organizational document, some policies and
